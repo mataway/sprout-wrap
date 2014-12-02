@@ -62,3 +62,7 @@ node_attributes:
         - vagrant
         - virtualbox
         - sublime-text3
+        - slack
+        - atom
+        - steam
+        - minecraft
