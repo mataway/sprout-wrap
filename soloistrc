@@ -51,6 +51,7 @@ node_attributes:
         - tree
         - watch
         - wget
+        - ant
       casks:
         - ccmenu
         - firefox
@@ -66,3 +67,4 @@ node_attributes:
         - atom
         - steam
         - minecraft
+        - java
