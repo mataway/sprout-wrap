@@ -52,6 +52,7 @@ node_attributes:
         - watch
         - wget
         - ant
+        - asciidoc
       casks:
         - ccmenu
         - firefox
