@@ -53,6 +53,7 @@ node_attributes:
         - wget
         - ant
         - asciidoc
+        - source-highlight
       casks:
         - ccmenu
         - firefox
