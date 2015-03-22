@@ -54,6 +54,7 @@ node_attributes:
         - ant
         - asciidoc
         - source-highlight
+        - resty
       casks:
         - ccmenu
         - firefox
